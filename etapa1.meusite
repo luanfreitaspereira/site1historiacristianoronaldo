@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cr7.com</title>
+</head>
+<body>
+    <header>
+        <h1>História de Cristiano Ronaldo</h1>
+        Tudo oque você procura saber do CR7, está aqui
+</header> 
+    <nav>
+    <a href="#">Menu principal</a>
+    <a href="#">Noticias</a>
+    <a href="#">Contato</a>
+</nav>
+</body>
+</html>
